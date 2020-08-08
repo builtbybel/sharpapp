@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.mirinsoft.com"><img src="https://github.com/mirinsoft/sharpapp/blob/master/icon.ico" alt="SharpApp" width="200"></a>
+  <a href="http://www.builtbybel.com"><img src="https://github.com/builtbybel/sharpapp/blob/master/icon.ico" alt="SharpApp" width="200"></a>
   <br>
   #app (SharpApp)
   <br>
@@ -9,19 +9,19 @@
 <h4 align="center">💩⭐️🚀A #app with cutting edge technology to minimize windows-10 telemetry and maximize privacy plus many more</h4>
 
 <p align="center">
-<a href="https://github.com/mirinsoft/sharpapp/releases/latest" target="_blank">
-<img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/sharpapp.svg?style=flat-square" />
+<a href="https://github.com/builtbybel/sharpapp/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/sharpapp.svg?style=flat-square" />
 </a>
 	
 <a href="https://github.com/mirinsoft/sharpapp/releases" target="_blank">
-<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mirinsoft/sharpapp/total.svg?style=flat-square" />
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/sharpapp/total.svg?style=flat-square" />
 </a>
 
 <a href="https://github.com/mirinsoft/sharpapp/commits/master">
-<img src="https://img.shields.io/github/last-commit/mirinsoft/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
+<img src="https://img.shields.io/github/last-commit/builtbybel/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
 <a href="https://github.com/mirinsoft/sharpapp/issues">
-<img src="https://img.shields.io/github/issues-raw/mirinsoft/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
+<img src="https://img.shields.io/github/issues-raw/builtbybel/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
   
 </p>
@@ -35,7 +35,7 @@ alt="GitHub issues">
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://github.com/mirinsoft/sharpapp/blob/master/sharpapp-intro.gif)
+![screenshot](https://github.com/builtbybel/sharpapp/blob/master/sharpapp-intro.gif)
 
 ## Features
 
@@ -52,7 +52,7 @@ SharpApp is a free and portable tool building upon a PowerShell engine and commu
 * Policies
 	- Integrated "Modern Policy Editor" (equivalent to Local Group Policy Editor) based upon Powershell objects for applying changes in Registry and System
 * More
-	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
+	- 100% free (please [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@builtbybel.com&lc=US&item_name=%20Builtbybelt&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted) and support me if you like it)
 	- features community powered and trending script files for your privacy, windows and apps
 	- customizible (no hard-coded scripts)
 	- integrated Powershell scripting engine
@@ -60,7 +60,7 @@ SharpApp is a free and portable tool building upon a PowerShell engine and commu
 	- portable
 	- lightweight and fast
 
-More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp) 
+More information can be found [here](http://www.builtbybel.com/ms-apps/sharpapp) 
 
 ## How To Use
 
@@ -85,11 +85,11 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
   * `remove-onedrive` for removing OneDrive Integration
   
 ## Marketplace
-Don't forget to check [SharpApp's Marketplace for more scripts files and templates](http://www.mirinsoft.com/marketplace)
+Don't forget to check [SharpApp's Marketplace for more scripts files and templates](http://www.builtbybel.com/marketplace)
 
 ## Download
 
-(Latest release) [Download](https://github.com/mirinsoft/sharpapp/releases) 
+(Latest release) [Download](https://github.com/builtbybel/sharpapp/releases) 
 
 ## Credits
 
@@ -103,7 +103,7 @@ Donationware (private and commercial use)
 
 ---
 
-> [mirinsoft.com](https://www.mirinsoft.com) &nbsp;&middot;&nbsp;
+> [builtbybel](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
 > GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
 > Twitter [@builtbybel](https://twitter.com/builtbybel)
 
